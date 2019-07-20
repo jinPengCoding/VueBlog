@@ -1,0 +1,208 @@
+{
+    "songinfo": {
+    "data": {
+    "info": {
+    "company": {
+    "title": "唱片公司",
+    "type": "JUMP_TO_COMPANY",
+    "content": [
+    {
+    "id": 35,
+    "value": "环球唱片",
+    "mid": "",
+    "type": 0,
+    "show_type": 0,
+    "is_parent": 0,
+    "picurl": "",
+    "read_cnt": 0,
+    "author": "",
+    "jumpurl": "",
+    "ori_picurl": ""
+    }
+    ],
+    "pos": 51,
+    "more": 0,
+    "selected": "company",
+    "use_platform": 1
+    },
+    "genre": {
+    "title": "歌曲流派",
+    "type": "JUMP_TO_CATEGORY",
+    "content": [
+    {
+    "id": 40,
+    "value": "Pop",
+    "mid": "",
+    "type": 0,
+    "show_type": 2,
+    "is_parent": 0,
+    "picurl": "",
+    "read_cnt": 0,
+    "author": "",
+    "jumpurl": "http://y.qq.com/m/client/categoryzone/detail.html?categoryId=40&showType=2&isParent=0&_hidehd=1&groupId=100",
+    "ori_picurl": ""
+    }
+    ],
+    "pos": 12,
+    "more": 0,
+    "selected": "genre",
+    "use_platform": 3
+    },
+    "lan": {
+    "title": "歌曲语种",
+    "type": "JUMP_TO_CATEGORY",
+    "content": [
+    {
+    "id": 3,
+    "value": " 英语",
+    "mid": "",
+    "type": 0,
+    "show_type": 2,
+    "is_parent": 0,
+    "picurl": "",
+    "read_cnt": 0,
+    "author": "",
+    "jumpurl": "http://y.qq.com/m/client/categoryzone/detail.html?categoryId=3&showType=2&isParent=0&_hidehd=1&groupId=100",
+    "ori_picurl": ""
+    }
+    ],
+    "pos": 11,
+    "more": 0,
+    "selected": "lan",
+    "use_platform": 3
+    },
+    "pub_time": {
+    "title": "发行时间",
+    "type": "desc",
+    "content": [
+    {
+    "id": 0,
+    "value": "2019-06-14",
+    "mid": "",
+    "type": 0,
+    "show_type": 0,
+    "is_parent": 0,
+    "picurl": "",
+    "read_cnt": 0,
+    "author": "",
+    "jumpurl": "",
+    "ori_picurl": ""
+    }
+    ],
+    "pos": 50,
+    "more": 0,
+    "selected": "pub_time",
+    "use_platform": 0
+    }
+    },
+    "extras": {
+    "name": "You Need To Calm Down",
+    "transname": "",
+    "subtitle": "",
+    "from": "0"
+    },
+    "track_info": {
+    "id": 233339343,
+    "type": 0,
+    "mid": "00246B2z2iDkeV",
+    "name": "You Need To Calm Down",
+    "title": "You Need To Calm Down",
+    "subtitle": "",
+    "singer": [
+    {
+    "id": 11921,
+    "mid": "000qrPik2w6lDr",
+    "name": "Taylor Swift",
+    "title": "Taylor Swift",
+    "type": 1,
+    "uin": 0
+    }
+    ],
+    "album": {
+    "id": 7007516,
+    "mid": "004TL0gm15U1ev",
+    "name": "You Need To Calm Down",
+    "title": "You Need To Calm Down",
+    "subtitle": "",
+    "time_public": "2019-06-14"
+    },
+    "mv": {
+    "id": 1540124,
+    "vid": "i0031f0l9s0",
+    "name": "",
+    "title": ""
+    },
+    "interval": 171,
+    "isonly": 1,
+    "language": 5,
+    "genre": 1,
+    "index_cd": 0,
+    "index_album": 1,
+    "time_public": "2019-06-14",
+    "status": 0,
+    "fnote": 4009,
+    "file": {
+    "media_mid": "003czrjU2jyZaI",
+    "size_24aac": 530619,
+    "size_48aac": 1038610,
+    "size_96aac": 2088322,
+    "size_192ogg": 4167716,
+    "size_192aac": 4130635,
+    "size_128mp3": 2743350,
+    "size_320mp3": 6857949,
+    "size_ape": 0,
+    "size_flac": 20854513,
+    "size_dts": 0,
+    "size_try": 0,
+    "try_begin": 0,
+    "try_end": 0,
+    "url": "",
+    "size_hires": 0,
+    "hires_sample": 0,
+    "hires_bitdepth": 0,
+    "b_30s": 0,
+    "e_30s": 0
+    },
+    "pay": {
+    "pay_month": 1,
+    "price_track": 200,
+    "price_album": 0,
+    "pay_play": 0,
+    "pay_down": 1,
+    "pay_status": 0,
+    "time_free": 0
+    },
+    "action": {
+    "switch": 17413891,
+    "msgid": 14,
+    "alert": 2,
+    "icons": 147324,
+    "msgshare": 0,
+    "msgfav": 0,
+    "msgdown": 0,
+    "msgpay": 6
+    },
+    "ksong": {
+    "id": 5861724,
+    "mid": "003BMHW03Wj6MO"
+    },
+    "volume": {
+    "gain": -10.428,
+    "peak": 1,
+    "lra": 4.646
+    },
+    "label": "0",
+    "url": "http://stream0.qqmusic.qq.com/245339343.wma",
+    "bpm": 84,
+    "version": 0,
+    "trace": "",
+    "data_type": 0,
+    "modify_stamp": 0,
+    "pingpong": ""
+    }
+    },
+    "code": 0
+    },
+    "code": 0,
+    "ts": 1561185666409
+}

@@ -1,29 +1,10 @@
 # vuedemo
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 实现功能
+- 注册,登录
+- 查看所有博客
+- 写博客
+- 查看个人信息
+- 娱乐里面可以查看的电影,音乐,阅读.
+- 连接的是国外的firebase在线数据库,使用的json格式,可以进行post数据提交,get数据请求
+- 写博客通过post请求,将数据保存到数据库,再通过get请求从保存的json格式的数据中将返回的数据解析后放在热门博客中.

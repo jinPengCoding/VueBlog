@@ -1,0 +1,2364 @@
+{
+    "detail": {
+    "data": {
+    "data": {
+    "topId": 4,
+    "recType": 10005,
+    "topType": 0,
+    "updateType": 1,
+    "title": "流行指数榜",
+    "titleDetail": "流行指数榜 第171天",
+    "titleShare": "流行指数榜 2019年第171天",
+    "titleSub": "",
+    "intro": "追踪全球音乐流行趋势，乐坛最热门歌曲，网络蹿红歌曲根据地。展示QQ音乐用户的关注热度，体现歌曲飙升程度的潮流音乐排行榜。<br><br>更新时间：每天更新<br>歌曲数量：100首<br>统计算法：QQ音乐库内全部歌曲，根据综合数据7天前的涨幅进行排序，取前100名<br>综合数据：登录用户在QQ音乐播放/分享/下载数据",
+    "cornerMark": 0,
+    "period": "2019-06-20",
+    "updateTime": "2019-06-20",
+    "history": {
+    "year": [],
+    "subPeriod": []
+    },
+    "listenNum": 19800000,
+    "totalNum": 100,
+    "song": [
+    {
+    "rank": 1,
+    "rankType": 6,
+    "rankValue": "170%",
+    "recType": 0,
+    "songId": 233339343,
+    "vid": "",
+    "albumMid": "004TL0gm15U1ev",
+    "title": "You Need To Calm Down",
+    "singerName": "Taylor Swift",
+    "singerMid": "000qrPik2w6lDr"
+    },
+    {
+    "rank": 2,
+    "rankType": 6,
+    "rankValue": "149%",
+    "recType": 0,
+    "songId": 233126321,
+    "vid": "",
+    "albumMid": "001kDFiq3mTdWe",
+    "title": "多想在平庸的生活拥抱你 (Live)",
+    "singerName": "隔壁老樊",
+    "singerMid": "002NS2204SODNk"
+    },
+    {
+    "rank": 3,
+    "rankType": 6,
+    "rankValue": "108%",
+    "recType": 0,
+    "songId": 233312127,
+    "vid": "",
+    "albumMid": "003qfWgD30T7Yt",
+    "title": "BIRTHDAY",
+    "singerName": "전소미 (全昭弥)",
+    "singerMid": "000W5wAZ1rmoPg"
+    },
+    {
+    "rank": 4,
+    "rankType": 6,
+    "rankValue": "100%",
+    "recType": 0,
+    "songId": 102300586,
+    "vid": "",
+    "albumMid": "003I6tYD3eGhER",
+    "title": "17岁",
+    "singerName": "刘德华",
+    "singerMid": "003aQYLo2x8izP"
+    },
+    {
+    "rank": 5,
+    "rankType": 6,
+    "rankValue": "93%",
+    "recType": 0,
+    "songId": 233397558,
+    "vid": "",
+    "albumMid": "001wkgzE1tpA0B",
+    "title": "闷 (Live)",
+    "singerName": "吴青峰/欧阳娜娜/张亚东/马东/乔杉",
+    "singerMid": "004COQ9L4X13uj"
+    },
+    {
+    "rank": 6,
+    "rankType": 6,
+    "rankValue": "80%",
+    "recType": 0,
+    "songId": 107354139,
+    "vid": "",
+    "albumMid": "0019fEB249Kj98",
+    "title": "父亲写的散文诗 (时光版)",
+    "singerName": "许飞",
+    "singerMid": "000ohzzi3esYiQ"
+    },
+    {
+    "rank": 7,
+    "rankType": 6,
+    "rankValue": "62%",
+    "recType": 0,
+    "songId": 233397562,
+    "vid": "",
+    "albumMid": "001wkgzE1tpA0B",
+    "title": "我愿意 (Live)",
+    "singerName": "痛仰乐队",
+    "singerMid": "004C8Qvh16lmb8"
+    },
+    {
+    "rank": 8,
+    "rankType": 6,
+    "rankValue": "62%",
+    "recType": 0,
+    "songId": 233098288,
+    "vid": "",
+    "albumMid": "0012LGgV3ehDCI",
+    "title": "爱情错觉",
+    "singerName": "半吨兄弟",
+    "singerMid": "000KBVw62Xyb2H"
+    },
+    {
+    "rank": 9,
+    "rankType": 6,
+    "rankValue": "61%",
+    "recType": 0,
+    "songId": 233348883,
+    "vid": "",
+    "albumMid": "000Kz6t71hKho9",
+    "title": "MyWay (Live)",
+    "singerName": "吴亦凡/张震岳/MC HotDog/潘玮柏/G.E.M. 邓紫棋",
+    "singerMid": "002yeznU3VAVEV"
+    },
+    {
+    "rank": 10,
+    "rankType": 6,
+    "rankValue": "58%",
+    "recType": 0,
+    "songId": 233245843,
+    "vid": "",
+    "albumMid": "0011I2mm0tmuSZ",
+    "title": "错",
+    "singerName": "黄子韬",
+    "singerMid": "003XriCI0OfGYj"
+    },
+    {
+    "rank": 11,
+    "rankType": 6,
+    "rankValue": "52%",
+    "recType": 0,
+    "songId": 104947873,
+    "vid": "",
+    "albumMid": "003JZpoM3puaFa",
+    "title": "Lil Mama",
+    "singerName": "Jain",
+    "singerMid": "004MNFfR3qdTqw"
+    },
+    {
+    "rank": 12,
+    "rankType": 6,
+    "rankValue": "51%",
+    "recType": 0,
+    "songId": 232550075,
+    "vid": "",
+    "albumMid": "004NiE4r2IRs6I",
+    "title": "多年以后",
+    "singerName": "大欢",
+    "singerMid": "000Zt0sM0sd0zX"
+    },
+    {
+    "rank": 13,
+    "rankType": 6,
+    "rankValue": "50%",
+    "recType": 0,
+    "songId": 233288597,
+    "vid": "",
+    "albumMid": "000asWuX3UUsXW",
+    "title": "姐妹们的旅行",
+    "singerName": "范晓萱/徐熙媛/徐熙娣/柳翰雅",
+    "singerMid": "000CLIfb03b9k7"
+    },
+    {
+    "rank": 14,
+    "rankType": 6,
+    "rankValue": "44%",
+    "recType": 0,
+    "songId": 215951234,
+    "vid": "",
+    "albumMid": "000RgBrK06p5mH",
+    "title": "当真",
+    "singerName": "蒋家驹（蒋蒋）/曲肖冰",
+    "singerMid": "001ii8ME2uOv92"
+    },
+    {
+    "rank": 15,
+    "rankType": 6,
+    "rankValue": "41%",
+    "recType": 0,
+    "songId": 233478449,
+    "vid": "",
+    "albumMid": "000YFOEc3weOYN",
+    "title": "一个人记得",
+    "singerName": "尤长靖",
+    "singerMid": "003imGMJ0gPd00"
+    },
+    {
+    "rank": 16,
+    "rankType": 6,
+    "rankValue": "38%",
+    "recType": 0,
+    "songId": 233397563,
+    "vid": "",
+    "albumMid": "001wkgzE1tpA0B",
+    "title": "只要平凡 (Live)",
+    "singerName": "刺猬乐队",
+    "singerMid": "002eGarz3ty7Lm"
+    },
+    {
+    "rank": 17,
+    "rankType": 6,
+    "rankValue": "35%",
+    "recType": 0,
+    "songId": 218224537,
+    "vid": "",
+    "albumMid": "004QnEHc3zjC7J",
+    "title": "年少有为",
+    "singerName": "李荣浩",
+    "singerMid": "000aHmbL2aPXWH"
+    },
+    {
+    "rank": 18,
+    "rankType": 6,
+    "rankValue": "34%",
+    "recType": 0,
+    "songId": 233349712,
+    "vid": "",
+    "albumMid": "0042IGbt0U7Vbt",
+    "title": "软糖沙滩",
+    "singerName": "李汶翰",
+    "singerMid": "000nuYSb1RP24t"
+    },
+    {
+    "rank": 19,
+    "rankType": 6,
+    "rankValue": "32%",
+    "recType": 0,
+    "songId": 233086480,
+    "vid": "",
+    "albumMid": "0010AYuF3nqxhw",
+    "title": "我们很好",
+    "singerName": "林俊杰",
+    "singerMid": "001BLpXF2DyJe2"
+    },
+    {
+    "rank": 20,
+    "rankType": 6,
+    "rankValue": "32%",
+    "recType": 0,
+    "songId": 101805142,
+    "vid": "",
+    "albumMid": "002ef2VB0Qfb30",
+    "title": "预谋邂逅",
+    "singerName": "阿肆",
+    "singerMid": "003VJ4nP0Q19xJ"
+    }
+    ],
+    "headPicUrl": "http://y.gtimg.cn/music/photo_new/T003R500x500M000002fSIyZ2LkCxg.jpg",
+    "frontPicUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000001oLD650CTF7Z.jpg",
+    "mbFrontPicUrl": "http://y.gtimg.cn/music/photo_new/T002R300x300M000004TL0gm15U1ev.jpg",
+    "mbHeadPicUrl": "http://y.gtimg.cn/music/photo_new/T003R500x500M00000068vPh1EOu6i.jpg",
+    "pcSubTopIds": [],
+    "pcSubTopTitles": [],
+    "subTopIds": [],
+    "adJumpUrl": "",
+    "h5JumpUrl": "",
+    "url_key": "",
+    "url_params": "",
+    "tjreport": "2_1_0_1_10005_4",
+    "rt": 0,
+    "updateTips": "每日更新",
+    "bannerText": ""
+    },
+    "songInfoList": [
+    {
+    "id": 233339343,
+    "type": 0,
+    "mid": "00246B2z2iDkeV",
+    "name": "You Need To Calm Down",
+    "title": "You Need To Calm Down",
+    "subtitle": "",
+    "singer": [
+    {
+    "id": 11921,
+    "mid": "000qrPik2w6lDr",
+    "name": "Taylor Swift",
+    "title": "Taylor Swift",
+    "type": 1,
+    "uin": 0
+    }
+    ],
+    "album": {
+    "id": 7007516,
+    "mid": "004TL0gm15U1ev",
+    "name": "You Need To Calm Down",
+    "title": "You Need To Calm Down",
+    "subtitle": "",
+    "time_public": "2019-06-14"
+    },
+    "mv": {
+    "id": 1540124,
+    "vid": "i0031f0l9s0",
+    "name": "",
+    "title": ""
+    },
+    "interval": 171,
+    "isonly": 1,
+    "language": 5,
+    "genre": 1,
+    "index_cd": 0,
+    "index_album": 1,
+    "time_public": "2019-06-14",
+    "status": 0,
+    "fnote": 4009,
+    "file": {
+    "media_mid": "003czrjU2jyZaI",
+    "size_24aac": 530619,
+    "size_48aac": 1038610,
+    "size_96aac": 2088322,
+    "size_192ogg": 4167716,
+    "size_192aac": 4130635,
+    "size_128mp3": 2743350,
+    "size_320mp3": 6857949,
+    "size_ape": 0,
+    "size_flac": 20854513,
+    "size_dts": 0,
+    "size_try": 0,
+    "try_begin": 0,
+    "try_end": 0,
+    "url": "",
+    "size_hires": 0,
+    "hires_sample": 0,
+    "hires_bitdepth": 0,
+    "b_30s": 0,
+    "e_30s": 0
+    },
+    "pay": {
+    "pay_month": 1,
+    "price_track": 200,
+    "price_album": 0,
+    "pay_play": 0,
+    "pay_down": 1,
+    "pay_status": 0,
+    "time_free": 0
+    },
+    "action": {
+    "switches": 17413891,
+    "msgid": 14,
+    "alert": 2,
+    "icons": 147324,
+    "msgshare": 0,
+    "msgfav": 0,
+    "msgdown": 0,
+    "msgpay": 6,
+    "switch": 17413891
+    },
+    "ksong": {
+    "id": 5861724,
+    "mid": "003BMHW03Wj6MO"
+    },
+    "volume": {
+    "gain": -10.428,
+    "peak": 1,
+    "lra": 4.646
+    },
+    "label": "0",
+    "url": "http://stream0.qqmusic.qq.com/245339343.wma",
+    "bpm": 84,
+    "version": 0,
+    "trace": "",
+    "data_type": 0,
+    "modify_stamp": 0
+    },
+    {
+    "id": 233126321,
+    "type": 0,
+    "mid": "001k3Be610tdON",
+    "name": "多想在平庸的生活拥抱你",
+    "title": "多想在平庸的生活拥抱你 (Live)",
+    "subtitle": "",
+    "singer": [
+    {
+    "id": 2249618,
+    "mid": "002NS2204SODNk",
+    "name": "隔壁老樊",
+    "title": "隔壁老樊",
+    "type": 0,
+    "uin": 0
+    }
+    ],
+    "album": {
+    "id": 6975938,
+    "mid": "001kDFiq3mTdWe",
+    "name": "中歌会 第6期",
+    "title": "中歌会 第6期",
+    "subtitle": "",
+    "time_public": "2019-06-08"
+    },
+    "mv": {
+    "id": 0,
+    "vid": "",
+    "name": "",
+    "title": ""
+    },
+    "interval": 269,
+    "isonly": 0,
+    "language": 0,
+    "genre": 1,
+    "index_cd": 0,
+    "index_album": 7,
+    "time_public": "2019-06-08",
+    "status": 0,
+    "fnote": 4009,
+    "file": {
+    "media_mid": "001k3Be610tdON",
+    "size_24aac": 837443,
+    "size_48aac": 1644325,
+    "size_96aac": 3286106,
+    "size_192ogg": 6304410,
+    "size_192aac": 6533328,
+    "size_128mp3": 4318574,
+    "size_320mp3": 10796105,
+    "size_ape": 0,
+    "size_flac": 29112778,
+    "size_dts": 0,
+    "size_try": 960887,
+    "try_begin": 53382,
+    "try_end": 83479,
+    "url": "",
+    "size_hires": 0,
+    "hires_sample": 0,
+    "hires_bitdepth": 0,
+    "b_30s": 0,
+    "e_30s": 60000
+    },
+    "pay": {
+    "pay_month": 1,
+    "price_track": 200,
+    "price_album": 0,
+    "pay_play": 0,
+    "pay_down": 1,
+    "pay_status": 0,
+    "time_free": 0
+    },
+    "action": {
+    "switches": 17413891,
+    "msgid": 14,
+    "alert": 2,
+    "icons": 147324,
+    "msgshare": 0,
+    "msgfav": 0,
+    "msgdown": 0,
+    "msgpay": 6,
+    "switch": 17413891
+    },
+    "ksong": {
+    "id": 5813385,
+    "mid": "002bzukO2Ob0mo"
+    },
+    "volume": {
+    "gain": -7.608,
+    "peak": 1,
+    "lra": 12.533
+    },
+    "label": "0",
+    "url": "http://stream0.qqmusic.qq.com/245126321.wma",
+    "bpm": 58,
+    "version": 3,
+    "trace": "",
+    "data_type": 0,
+    "modify_stamp": 0
+    },
+    {
+    "id": 233312127,
+    "type": 0,
+    "mid": "004J3X0n14JGOl",
+    "name": "BIRTHDAY",
+    "title": "BIRTHDAY",
+    "subtitle": "",
+    "singer": [
+    {
+    "id": 1164021,
+    "mid": "000W5wAZ1rmoPg",
+    "name": "전소미",
+    "title": "전소미 (全昭弥)",
+    "type": 1,
+    "uin": 0
+    }
+    ],
+    "album": {
+    "id": 7002035,
+    "mid": "003qfWgD30T7Yt",
+    "name": "BIRTHDAY",
+    "title": "BIRTHDAY",
+    "subtitle": "",
+    "time_public": "2019-06-13"
+    },
+    "mv": {
+    "id": 1539255,
+    "vid": "t0031l5b6uv",
+    "name": "",
+    "title": ""
+    },
+    "interval": 185,
+    "isonly": 1,
+    "language": 4,
+    "genre": 20,
+    "index_cd": 0,
+    "index_album": 2,
+    "time_public": "2019-06-13",
+    "status": 0,
+    "fnote": 4009,
+    "file": {
+    "media_mid": "004J3X0n14JGOl",
+    "size_24aac": 577435,
+    "size_48aac": 1133277,
+    "size_96aac": 2271020,
+    "size_192ogg": 4361199,
+    "size_192aac": 4491381,
+    "size_128mp3": 2973993,
+    "size_320mp3": 7434663,
+    "size_ape": 0,
+    "size_flac": 23409048,
+    "size_dts": 0,
+    "size_try": 960887,
+    "try_begin": 0,
+    "try_end": 0,
+    "url": "",
+    "size_hires": 0,
+    "hires_sample": 0,
+    "hires_bitdepth": 0,
+    "b_30s": 0,
+    "e_30s": 60000
+    },
+    "pay": {
+    "pay_month": 1,
+    "price_track": 200,
+    "price_album": 0,
+    "pay_play": 0,
+    "pay_down": 1,
+    "pay_status": 0,
+    "time_free": 0
+    },
+    "action": {
+    "switches": 17413891,
+    "msgid": 14,
+    "alert": 2,
+    "icons": 147324,
+    "msgshare": 0,
+    "msgfav": 0,
+    "msgdown": 0,
+    "msgpay": 6,
+    "switch": 17413891
+    },
+    "ksong": {
+    "id": 5989877,
+    "mid": "0014Q1ls0IfuQK"
+    },
+    "volume": {
+    "gain": -10.207,
+    "peak": 0.999,
+    "lra": 3.027
+    },
+    "label": "0",
+    "url": "http://stream0.qqmusic.qq.com/245312127.wma",
+    "bpm": 89,
+    "version": 0,
+    "trace": "",
+    "data_type": 0,
+    "modify_stamp": 0
+    },
+    {
+    "id": 102300586,
+    "type": 0,
+    "mid": "000HWyhv4UJpLq",
+    "name": "17岁",
+    "title": "17岁",
+    "subtitle": "",
+    "singer": [
+    {
+    "id": 163,
+    "mid": "003aQYLo2x8izP",
+    "name": "刘德华",
+    "title": "刘德华",
+    "type": 0,
+    "uin": 0
+    }
+    ],
+    "album": {
+    "id": 39300,
+    "mid": "003I6tYD3eGhER",
+    "name": "如果有一天",
+    "title": "如果有一天",
+    "subtitle": "",
+    "time_public": "2003-06-05"
+    },
+    "mv": {
+    "id": 46657,
+    "vid": "c00135kde12",
+    "name": "",
+    "title": ""
+    },
+    "interval": 242,
+    "isonly": 1,
+    "language": 1,
+    "genre": 1,
+    "index_cd": 0,
+    "index_album": 3,
+    "time_public": "2003-06-05",
+    "status": 0,
+    "fnote": 4009,
+    "file": {
+    "media_mid": "000HWyhv4UJpLq",
+    "size_24aac": 751277,
+    "size_48aac": 1502544,
+    "size_96aac": 3013492,
+    "size_192ogg": 5759644,
+    "size_192aac": 5741476,
+    "size_128mp3": 3883874,
+    "size_320mp3": 9709390,
+    "size_ape": 26510523,
+    "size_flac": 26740771,
+    "size_dts": 0,
+    "size_try": 960887,
+    "try_begin": 79158,
+    "try_end": 110452,
+    "url": "",
+    "size_hires": 0,
+    "hires_sample": 0,
+    "hires_bitdepth": 0,
+    "b_30s": 0,
+    "e_30s": 60000
+    },
+    "pay": {
+    "pay_month": 1,
+    "price_track": 200,
+    "price_album": 0,
+    "pay_play": 0,
+    "pay_down": 1,
+    "pay_status": 0,
+    "time_free": 0
+    },
+    "action": {
+    "switches": 17413891,
+    "msgid": 14,
+    "alert": 2,
+    "icons": 147324,
+    "msgshare": 0,
+    "msgfav": 0,
+    "msgdown": 0,
+    "msgpay": 6,
+    "switch": 17413891
+    },
+    "ksong": {
+    "id": 136631,
+    "mid": "000uRvC71rEgXO"
+    },
+    "volume": {
+    "gain": -6.813,
+    "peak": 1,
+    "lra": 9.723
+    },
+    "label": "4611686018435776514",
+    "url": "http://stream10.qqmusic.qq.com/114300586.wma",
+    "bpm": 80,
+    "version": 0,
+    "trace": "",
+    "data_type": 0,
+    "modify_stamp": 0
+    },
+    {
+    "id": 233397558,
+    "type": 0,
+    "mid": "0045IfVJ333g9l",
+    "name": "闷",
+    "title": "闷 (Live)",
+    "subtitle": "",
+    "singer": [
+    {
+    "id": 14013,
+    "mid": "004COQ9L4X13uj",
+    "name": "吴青峰",
+    "title": "吴青峰",
+    "type": 0,
+    "uin": 0
+    },
+    {
+    "id": 1038252,
+    "mid": "0003R3WI40ZZYG",
+    "name": "欧阳娜娜",
+    "title": "欧阳娜娜",
+    "type": 1,
+    "uin": 0
+    },
+    {
+    "id": 6877,
+    "mid": "004MMCwu3aQoWO",
+    "name": "张亚东",
+    "title": "张亚东",
+    "type": 0,
+    "uin": 0
+    },
+    {
+    "id": 3288215,
+    "mid": "001xbsKe1ydurg",
+    "name": "马东",
+    "title": "马东",
+    "type": 0,
+    "uin": 0
+    },
+    {
+    "id": 1366425,
+    "mid": "003JyiSW2YVSpV",
+    "name": "乔杉",
+    "title": "乔杉",
+    "type": 0,
+    "uin": 0
+    }
+    ],
+    "album": {
+    "id": 7016074,
+    "mid": "001wkgzE1tpA0B",
+    "name": "乐队的夏天 第4期",
+    "title": "乐队的夏天 第4期",
+    "subtitle": "",
+    "time_public": "2019-06-15"
+    },
+    "mv": {
+    "id": 1539708,
+    "vid": "n0031wl9skm",
+    "name": "",
+    "title": ""
+    },
+    "interval": 119,
+    "isonly": 0,
+    "language": 0,
+    "genre": 1,
+    "index_cd": 0,
+    "index_album": 1,
+    "time_public": "2019-06-15",
+    "status": 0,
+    "fnote": 4009,
+    "file": {
+    "media_mid": "0045IfVJ333g9l",
+    "size_24aac": 371921,
+    "size_48aac": 726428,
+    "size_96aac": 1450996,
+    "size_192ogg": 2629677,
+    "size_192aac": 2892158,
+    "size_128mp3": 1912783,
+    "size_320mp3": 4781655,
+    "size_ape": 0,
+    "size_flac": 24689058,
+    "size_dts": 0,
+    "size_try": 481070,
+    "try_begin": 0,
+    "try_end": 0,
+    "url": "",
+    "size_hires": 0,
+    "hires_sample": 0,
+    "hires_bitdepth": 0,
+    "b_30s": 0,
+    "e_30s": 30000
+    },
+    "pay": {
+    "pay_month": 1,
+    "price_track": 0,
+    "price_album": 0,
+    "pay_play": 0,
+    "pay_down": 0,
+    "pay_status": 0,
+    "time_free": 1
+    },
+    "action": {
+    "switches": 632583,
+    "msgid": 0,
+    "alert": 40,
+    "icons": 0,
+    "msgshare": 0,
+    "msgfav": 0,
+    "msgdown": 6,
+    "msgpay": 0,
+    "switch": 632583
+    },
+    "ksong": {
+    "id": 0,
+    "mid": ""
+    },
+    "volume": {
+    "gain": -7.187,
+    "peak": 0.803,
+    "lra": 5.846
+    },
+    "label": "0",
+    "url": "http://stream0.qqmusic.qq.com/245397558.wma",
+    "bpm": 132,
+    "version": 3,
+    "trace": "",
+    "data_type": 0,
+    "modify_stamp": 0
+    },
+    {
+    "id": 107354139,
+    "type": 0,
+    "mid": "001Z7M2S3GZVB0",
+    "name": "父亲写的散文诗",
+    "title": "父亲写的散文诗 (时光版)",
+    "subtitle": "",
+    "singer": [
+    {
+    "id": 5556,
+    "mid": "000ohzzi3esYiQ",
+    "name": "许飞",
+    "title": "许飞",
+    "type": 1,
+    "uin": 0
+    }
+    ],
+    "album": {
+    "id": 1479251,
+    "mid": "0019fEB249Kj98",
+    "name": "父亲写的散文诗",
+    "title": "父亲写的散文诗",
+    "subtitle": "",
+    "time_public": "2016-06-17"
+    },
+    "mv": {
+    "id": 1319452,
+    "vid": "h002467csjt",
+    "name": "",
+    "title": ""
+    },
+    "interval": 228,
+    "isonly": 0,
+    "language": 0,
+    "genre": 1,
+    "index_cd": 0,
+    "index_album": 1,
+    "time_public": "2016-06-17",
+    "status": 0,
+    "fnote": 4009,
+    "file": {
+    "media_mid": "001Z7M2S3GZVB0",
+    "size_24aac": 714428,
+    "size_48aac": 1409883,
+    "size_96aac": 2676899,
+    "size_192ogg": 4976017,
+    "size_192aac": 5045928,
+    "size_128mp3": 3656535,
+    "size_320mp3": 9140995,
+    "size_ape": 23447668,
+    "size_flac": 23643455,
+    "size_dts": 0,
+    "size_try": 0,
+    "try_begin": 72959,
+    "try_end": 104757,
+    "url": "",
+    "size_hires": 0,
+    "hires_sample": 0,
+    "hires_bitdepth": 0,
+    "b_30s": 0,
+    "e_30s": 0
+    },
+    "pay": {
+    "pay_month": 1,
+    "price_track": 200,
+    "price_album": 0,
+    "pay_play": 0,
+    "pay_down": 1,
+    "pay_status": 0,
+    "time_free": 0
+    },
+    "action": {
+    "switches": 17413891,
+    "msgid": 14,
+    "alert": 2,
+    "icons": 139132,
+    "msgshare": 0,
+    "msgfav": 0,
+    "msgdown": 0,
+    "msgpay": 6,
+    "switch": 17413891
+    },
+    "ksong": {
+    "id": 2312291,
+    "mid": "000zzWQ73sUn3c"
+    },
+    "volume": {
+    "gain": -8.51,
+    "peak": 1,
+    "lra": 8.33
+    },
+    "label": "5764607658334093313",
+    "url": "http://stream1.qqmusic.qq.com/119354139.wma",
+    "bpm": 65,
+    "version": 0,
+    "trace": "",
+    "data_type": 0,
+    "modify_stamp": 0
+    },
+    {
+    "id": 233397562,
+    "type": 0,
+    "mid": "003QyOxn11WftA",
+    "name": "我愿意",
+    "title": "我愿意 (Live)",
+    "subtitle": "",
+    "singer": [
+    {
+    "id": 13930,
+    "mid": "004C8Qvh16lmb8",
+    "name": "痛仰乐队",
+    "title": "痛仰乐队",
+    "type": 2,
+    "uin": 0
+    }
+    ],
+    "album": {
+    "id": 7016074,
+    "mid": "001wkgzE1tpA0B",
+    "name": "乐队的夏天 第4期",
+    "title": "乐队的夏天 第4期",
+    "subtitle": "",
+    "time_public": "2019-06-15"
+    },
+    "mv": {
+    "id": 1539709,
+    "vid": "t0031lqz3za",
+    "name": "",
+    "title": ""
+    },
+    "interval": 287,
+    "isonly": 0,
+    "language": 0,
+    "genre": 1,
+    "index_cd": 0,
+    "index_album": 3,
+    "time_public": "2019-06-15",
+    "status": 0,
+    "fnote": 4009,
+    "file": {
+    "media_mid": "003QyOxn11WftA",
+    "size_24aac": 892678,
+    "size_48aac": 1755952,
+    "size_96aac": 3506362,
+    "size_192ogg": 6217892,
+    "size_192aac": 6970178,
+    "size_128mp3": 4606536,
+    "size_320mp3": 11516028,
+    "size_ape": 0,
+    "size_flac": 58863560,
+    "size_dts": 0,
+    "size_try": 960887,
+    "try_begin": 0,
+    "try_end": 0,
+    "url": "",
+    "size_hires": 0,
+    "hires_sample": 0,
+    "hires_bitdepth": 0,
+    "b_30s": 0,
+    "e_30s": 60000
+    },
+    "pay": {
+    "pay_month": 1,
+    "price_track": 0,
+    "price_album": 0,
+    "pay_play": 0,
+    "pay_down": 0,
+    "pay_status": 0,
+    "time_free": 1
+    },
+    "action": {
+    "switches": 632583,
+    "msgid": 0,
+    "alert": 40,
+    "icons": 0,
+    "msgshare": 0,
+    "msgfav": 0,
+    "msgdown": 6,
+    "msgpay": 0,
+    "switch": 632583
+    },
+    "ksong": {
+    "id": 0,
+    "mid": ""
+    },
+    "volume": {
+    "gain": -5.565,
+    "peak": 0.82,
+    "lra": 9.374
+    },
+    "label": "0",
+    "url": "http://stream0.qqmusic.qq.com/245397562.wma",
+    "bpm": 75,
+    "version": 3,
+    "trace": "",
+    "data_type": 0,
+    "modify_stamp": 0
+    },
+    {
+    "id": 233098288,
+    "type": 0,
+    "mid": "000CuWZ41aeVAp",
+    "name": "爱情错觉",
+    "title": "爱情错觉",
+    "subtitle": "",
+    "singer": [
+    {
+    "id": 3271036,
+    "mid": "000KBVw62Xyb2H",
+    "name": "半吨兄弟",
+    "title": "半吨兄弟",
+    "type": 2,
+    "uin": 0
+    }
+    ],
+    "album": {
+    "id": 6970796,
+    "mid": "0012LGgV3ehDCI",
+    "name": "爱情错觉",
+    "title": "爱情错觉",
+    "subtitle": "",
+    "time_public": "2019-06-06"
+    },
+    "mv": {
+    "id": 0,
+    "vid": "",
+    "name": "",
+    "title": ""
+    },
+    "interval": 243,
+    "isonly": 1,
+    "language": 0,
+    "genre": 0,
+    "index_cd": 0,
+    "index_album": 1,
+    "time_public": "2019-06-06",
+    "status": 0,
+    "fnote": 4009,
+    "file": {
+    "media_mid": "001UaSvD3YVHoY",
+    "size_24aac": 757573,
+    "size_48aac": 1487819,
+    "size_96aac": 2985777,
+    "size_192ogg": 4993921,
+    "size_192aac": 5930078,
+    "size_128mp3": 3903520,
+    "size_320mp3": 9758502,
+    "size_ape": 0,
+    "size_flac": 25822432,
+    "size_dts": 0,
+    "size_try": 0,
+    "try_begin": 59107,
+    "try_end": 80523,
+    "url": "",
+    "size_hires": 0,
+    "hires_sample": 0,
+    "hires_bitdepth": 0,
+    "b_30s": 0,
+    "e_30s": 0
+    },
+    "pay": {
+    "pay_month": 1,
+    "price_track": 200,
+    "price_album": 0,
+    "pay_play": 0,
+    "pay_down": 1,
+    "pay_status": 0,
+    "time_free": 0
+    },
+    "action": {
+    "switches": 17413891,
+    "msgid": 14,
+    "alert": 2,
+    "icons": 139132,
+    "msgshare": 0,
+    "msgfav": 0,
+    "msgdown": 0,
+    "msgpay": 6,
+    "switch": 17413891
+    },
+    "ksong": {
+    "id": 5773319,
+    "mid": "000d5vth0nRiot"
+    },
+    "volume": {
+    "gain": -8.367,
+    "peak": 1,
+    "lra": 4.667
+    },
+    "label": "0",
+    "url": "http://stream0.qqmusic.qq.com/245098288.wma",
+    "bpm": 100,
+    "version": 0,
+    "trace": "",
+    "data_type": 0,
+    "modify_stamp": 0
+    },
+    {
+    "id": 233348883,
+    "type": 0,
+    "mid": "0002pVPZ2r4nJD",
+    "name": "MyWay",
+    "title": "MyWay (Live)",
+    "subtitle": "",
+    "singer": [
+    {
+    "id": 180646,
+    "mid": "002yeznU3VAVEV",
+    "name": "吴亦凡",
+    "title": "吴亦凡",
+    "type": 0,
+    "uin": 0
+    },
+    {
+    "id": 89,
+    "mid": "003gA4Y334rnOf",
+    "name": "张震岳",
+    "title": "张震岳",
+    "type": 0,
+    "uin": 0
+    },
+    {
+    "id": 4,
+    "mid": "0023JlKC41RuGV",
+    "name": "MC HotDog",
+    "title": "MC HotDog",
+    "type": 0,
+    "uin": 0
+    },
+    {
+    "id": 4359,
+    "mid": "000iM9BB2TXFqu",
+    "name": "潘玮柏",
+    "title": "潘玮柏",
+    "type": 0,
+    "uin": 0
+    },
+    {
+    "id": 13948,
+    "mid": "001fNHEf1SFEFN",
+    "name": "G.E.M. 邓紫棋",
+    "title": "G.E.M. 邓紫棋",
+    "type": 1,
+    "uin": 0
+    }
+    ],
+    "album": {
+    "id": 7009507,
+    "mid": "000Kz6t71hKho9",
+    "name": "中国新说唱2019 第1期",
+    "title": "中国新说唱2019 第1期",
+    "subtitle": "",
+    "time_public": "2019-06-14"
+    },
+    "mv": {
+    "id": 1539692,
+    "vid": "r0031d40x8c",
+    "name": "",
+    "title": ""
+    },
+    "interval": 396,
+    "isonly": 0,
+    "language": 0,
+    "genre": 34,
+    "index_cd": 0,
+    "index_album": 1,
+    "time_public": "2019-06-14",
+    "status": 0,
+    "fnote": 4009,
+    "file": {
+    "media_mid": "003h67M81fc4nQ",
+    "size_24aac": 1226862,
+    "size_48aac": 2413319,
+    "size_96aac": 4822330,
+    "size_192ogg": 9592311,
+    "size_192aac": 9588593,
+    "size_128mp3": 6340240,
+    "size_320mp3": 15850275,
+    "size_ape": 0,
+    "size_flac": 90499879,
+    "size_dts": 0,
+    "size_try": 0,
+    "try_begin": 0,
+    "try_end": 0,
+    "url": "",
+    "size_hires": 0,
+    "hires_sample": 0,
+    "hires_bitdepth": 0,
+    "b_30s": 0,
+    "e_30s": 0
+    },
+    "pay": {
+    "pay_month": 1,
+    "price_track": 200,
+    "price_album": 0,
+    "pay_play": 0,
+    "pay_down": 1,
+    "pay_status": 0,
+    "time_free": 0
+    },
+    "action": {
+    "switches": 17409795,
+    "msgid": 14,
+    "alert": 43,
+    "icons": 147324,
+    "msgshare": 0,
+    "msgfav": 0,
+    "msgdown": 0,
+    "msgpay": 6,
+    "switch": 17409795
+    },
+    "ksong": {
+    "id": 0,
+    "mid": ""
+    },
+    "volume": {
+    "gain": -8.432,
+    "peak": 0.976,
+    "lra": 7.997
+    },
+    "label": "0",
+    "url": "http://stream0.qqmusic.qq.com/245348883.wma",
+    "bpm": 86,
+    "version": 3,
+    "trace": "",
+    "data_type": 0,
+    "modify_stamp": 0
+    },
+    {
+    "id": 233245843,
+    "type": 0,
+    "mid": "000LGqaa1PuVfH",
+    "name": "错",
+    "title": "错",
+    "subtitle": "",
+    "singer": [
+    {
+    "id": 116322,
+    "mid": "003XriCI0OfGYj",
+    "name": "黄子韬",
+    "title": "黄子韬",
+    "type": 0,
+    "uin": 0
+    }
+    ],
+    "album": {
+    "id": 6991596,
+    "mid": "0011I2mm0tmuSZ",
+    "name": "music is BLUE",
+    "title": "music is BLUE",
+    "subtitle": "",
+    "time_public": "2019-06-12"
+    },
+    "mv": {
+    "id": 0,
+    "vid": "",
+    "name": "",
+    "title": ""
+    },
+    "interval": 230,
+    "isonly": 1,
+    "language": 0,
+    "genre": 0,
+    "index_cd": 0,
+    "index_album": 1,
+    "time_public": "2019-06-12",
+    "status": 0,
+    "fnote": 4009,
+    "file": {
+    "media_mid": "000LGqaa1PuVfH",
+    "size_24aac": 717408,
+    "size_48aac": 1408522,
+    "size_96aac": 2824242,
+    "size_192ogg": 5160621,
+    "size_192aac": 5581852,
+    "size_128mp3": 3683684,
+    "size_320mp3": 9208895,
+    "size_ape": 0,
+    "size_flac": 44584669,
+    "size_dts": 0,
+    "size_try": 960887,
+    "try_begin": 0,
+    "try_end": 0,
+    "url": "",
+    "size_hires": 0,
+    "hires_sample": 0,
+    "hires_bitdepth": 0,
+    "b_30s": 0,
+    "e_30s": 60000
+    },
+    "pay": {
+    "pay_month": 1,
+    "price_track": 200,
+    "price_album": 0,
+    "pay_play": 0,
+    "pay_down": 1,
+    "pay_status": 0,
+    "time_free": 0
+    },
+    "action": {
+    "switches": 17413891,
+    "msgid": 14,
+    "alert": 2,
+    "icons": 139132,
+    "msgshare": 0,
+    "msgfav": 0,
+    "msgdown": 0,
+    "msgpay": 6,
+    "switch": 17413891
+    },
+    "ksong": {
+    "id": 5816512,
+    "mid": "0032sXpH3VHK95"
+    },
+    "volume": {
+    "gain": -6.857,
+    "peak": 0.943,
+    "lra": 7.475
+    },
+    "label": "0",
+    "url": "http://stream0.qqmusic.qq.com/245245843.wma",
+    "bpm": 57,
+    "version": 0,
+    "trace": "",
+    "data_type": 0,
+    "modify_stamp": 0
+    },
+    {
+    "id": 104947873,
+    "type": 0,
+    "mid": "0047r1yW4Zh9fq",
+    "name": "Lil Mama",
+    "title": "Lil Mama",
+    "subtitle": "",
+    "singer": [
+    {
+    "id": 970905,
+    "mid": "004MNFfR3qdTqw",
+    "name": "Jain",
+    "title": "Jain",
+    "type": 1,
+    "uin": 0
+    }
+    ],
+    "album": {
+    "id": 1199701,
+    "mid": "003JZpoM3puaFa",
+    "name": "Zanaka",
+    "title": "Zanaka",
+    "subtitle": "",
+    "time_public": "2015-11-06"
+    },
+    "mv": {
+    "id": 1437638,
+    "vid": "r0025g7xzb4",
+    "name": "",
+    "title": ""
+    },
+    "interval": 158,
+    "isonly": 1,
+    "language": 5,
+    "genre": 1,
+    "index_cd": 0,
+    "index_album": 4,
+    "time_public": "2015-11-06",
+    "status": 0,
+    "fnote": 4009,
+    "file": {
+    "media_mid": "003XKMck1lOckH",
+    "size_24aac": 501814,
+    "size_48aac": 990104,
+    "size_96aac": 1923942,
+    "size_192ogg": 3521371,
+    "size_192aac": 3742294,
+    "size_128mp3": 2534298,
+    "size_320mp3": 6335428,
+    "size_ape": 0,
+    "size_flac": 0,
+    "size_dts": 0,
+    "size_try": 0,
+    "try_begin": 0,
+    "try_end": 0,
+    "url": "",
+    "size_hires": 0,
+    "hires_sample": 0,
+    "hires_bitdepth": 0,
+    "b_30s": 0,
+    "e_30s": 0
+    },
+    "pay": {
+    "pay_month": 1,
+    "price_track": 200,
+    "price_album": 0,
+    "pay_play": 0,
+    "pay_down": 1,
+    "pay_status": 0,
+    "time_free": 0
+    },
+    "action": {
+    "switches": 17413891,
+    "msgid": 14,
+    "alert": 2,
+    "icons": 139132,
+    "msgshare": 0,
+    "msgfav": 0,
+    "msgdown": 0,
+    "msgpay": 6,
+    "switch": 17413891
+    },
+    "ksong": {
+    "id": 1184612,
+    "mid": "003UVeF63vW8xq"
+    },
+    "volume": {
+    "gain": -7.834,
+    "peak": 1,
+    "lra": 3.016
+    },
+    "label": "4611686018435778640",
+    "url": "http://stream1.qqmusic.qq.com/116947873.wma",
+    "bpm": 99,
+    "version": 0,
+    "trace": "",
+    "data_type": 0,
+    "modify_stamp": 0
+    },
+    {
+    "id": 232550075,
+    "type": 0,
+    "mid": "001FS7ce41y4dZ",
+    "name": "多年以后",
+    "title": "多年以后",
+    "subtitle": "",
+    "singer": [
+    {
+    "id": 2892936,
+    "mid": "000Zt0sM0sd0zX",
+    "name": "大欢",
+    "title": "大欢",
+    "type": 0,
+    "uin": 0
+    }
+    ],
+    "album": {
+    "id": 6867225,
+    "mid": "004NiE4r2IRs6I",
+    "name": "多年以后",
+    "title": "多年以后",
+    "subtitle": "",
+    "time_public": "2019-05-21"
+    },
+    "mv": {
+    "id": 0,
+    "vid": "",
+    "name": "",
+    "title": ""
+    },
+    "interval": 243,
+    "isonly": 0,
+    "language": 0,
+    "genre": 0,
+    "index_cd": 0,
+    "index_album": 1,
+    "time_public": "2019-05-21",
+    "status": 31,
+    "fnote": 0,
+    "file": {
+    "media_mid": "001FS7ce41y4dZ",
+    "size_24aac": 755157,
+    "size_48aac": 1481633,
+    "size_96aac": 2963076,
+    "size_192ogg": 5471753,
+    "size_192aac": 5887272,
+    "size_128mp3": 3889306,
+    "size_320mp3": 9722688,
+    "size_ape": 0,
+    "size_flac": 49189198,
+    "size_dts": 0,
+    "size_try": 960887,
+    "try_begin": 80710,
+    "try_end": 103751,
+    "url": "",
+    "size_hires": 0,
+    "hires_sample": 0,
+    "hires_bitdepth": 0,
+    "b_30s": 0,
+    "e_30s": 60000
+    },
+    "pay": {
+    "pay_month": 0,
+    "price_track": 0,
+    "price_album": 0,
+    "pay_play": 0,
+    "pay_down": 0,
+    "pay_status": 0,
+    "time_free": 0
+    },
+    "action": {
+    "switches": 605975,
+    "msgid": 0,
+    "alert": 11,
+    "icons": 135752,
+    "msgshare": 0,
+    "msgfav": 0,
+    "msgdown": 0,
+    "msgpay": 0,
+    "switch": 605975
+    },
+    "ksong": {
+    "id": 5739341,
+    "mid": "001ByyAQ0BJ5wR"
+    },
+    "volume": {
+    "gain": -7.953,
+    "peak": 1,
+    "lra": 8.122
+    },
+    "label": "0",
+    "url": "http://stream0.qqmusic.qq.com/244550075.wma",
+    "bpm": 80,
+    "version": 0,
+    "trace": "",
+    "data_type": 0,
+    "modify_stamp": 0
+    },
+    {
+    "id": 233288597,
+    "type": 0,
+    "mid": "002K9QtL0khqWF",
+    "name": "姐妹们的旅行",
+    "title": "姐妹们的旅行",
+    "subtitle": "",
+    "singer": [
+    {
+    "id": 232,
+    "mid": "000CLIfb03b9k7",
+    "name": "范晓萱",
+    "title": "范晓萱",
+    "type": 1,
+    "uin": 0
+    },
+    {
+    "id": 7124,
+    "mid": "001dMuHo1GZJDC",
+    "name": "徐熙媛",
+    "title": "徐熙媛",
+    "type": 1,
+    "uin": 0
+    },
+    {
+    "id": 4858,
+    "mid": "001V2cxD2WVM3w",
+    "name": "徐熙娣",
+    "title": "徐熙娣",
+    "type": 1,
+    "uin": 0
+    },
+    {
+    "id": 236,
+    "mid": "004dRoOT4BuJOK",
+    "name": "柳翰雅",
+    "title": "柳翰雅",
+    "type": 1,
+    "uin": 0
+    }
+    ],
+    "album": {
+    "id": 6998034,
+    "mid": "000asWuX3UUsXW",
+    "name": "姐妹们的旅行",
+    "title": "姐妹们的旅行",
+    "subtitle": "",
+    "time_public": "2019-06-14"
+    },
+    "mv": {
+    "id": 1540113,
+    "vid": "o00315xji33",
+    "name": "",
+    "title": ""
+    },
+    "interval": 144,
+    "isonly": 1,
+    "language": 0,
+    "genre": 0,
+    "index_cd": 0,
+    "index_album": 1,
+    "time_public": "2019-06-14",
+    "status": 0,
+    "fnote": 4009,
+    "file": {
+    "media_mid": "002K9QtL0khqWF",
+    "size_24aac": 452124,
+    "size_48aac": 884464,
+    "size_96aac": 1773393,
+    "size_192ogg": 3121141,
+    "size_192aac": 3512175,
+    "size_128mp3": 2320297,
+    "size_320mp3": 5800434,
+    "size_ape": 0,
+    "size_flac": 14513727,
+    "size_dts": 0,
+    "size_try": 960887,
+    "try_begin": 0,
+    "try_end": 0,
+    "url": "",
+    "size_hires": 0,
+    "hires_sample": 0,
+    "hires_bitdepth": 0,
+    "b_30s": 0,
+    "e_30s": 60000
+    },
+    "pay": {
+    "pay_month": 1,
+    "price_track": 200,
+    "price_album": 0,
+    "pay_play": 0,
+    "pay_down": 1,
+    "pay_status": 0,
+    "time_free": 0
+    },
+    "action": {
+    "switches": 17413891,
+    "msgid": 14,
+    "alert": 2,
+    "icons": 147324,
+    "msgshare": 0,
+    "msgfav": 0,
+    "msgdown": 0,
+    "msgpay": 6,
+    "switch": 17413891
+    },
+    "ksong": {
+    "id": 5841340,
+    "mid": "000KtIBa2UgtUE"
+    },
+    "volume": {
+    "gain": -7.732,
+    "peak": 1,
+    "lra": 5.71
+    },
+    "label": "0",
+    "url": "http://stream0.qqmusic.qq.com/245288597.wma",
+    "bpm": 80,
+    "version": 0,
+    "trace": "",
+    "data_type": 0,
+    "modify_stamp": 0
+    },
+    {
+    "id": 215951234,
+    "type": 0,
+    "mid": "000mYvlv2HvIg5",
+    "name": "当真",
+    "title": "当真",
+    "subtitle": "",
+    "singer": [
+    {
+    "id": 33625,
+    "mid": "001ii8ME2uOv92",
+    "name": "蒋家驹（蒋蒋）",
+    "title": "蒋家驹（蒋蒋）",
+    "type": 0,
+    "uin": 0
+    },
+    {
+    "id": 1103924,
+    "mid": "001ZVMXf3ZYVX7",
+    "name": "曲肖冰",
+    "title": "曲肖冰",
+    "type": 1,
+    "uin": 0
+    }
+    ],
+    "album": {
+    "id": 4378158,
+    "mid": "000RgBrK06p5mH",
+    "name": "当真",
+    "title": "当真",
+    "subtitle": "",
+    "time_public": "2018-08-24"
+    },
+    "mv": {
+    "id": 0,
+    "vid": "",
+    "name": "",
+    "title": ""
+    },
+    "interval": 189,
+    "isonly": 0,
+    "language": 0,
+    "genre": 1,
+    "index_cd": 0,
+    "index_album": 1,
+    "time_public": "2018-08-24",
+    "status": 0,
+    "fnote": 4009,
+    "file": {
+    "media_mid": "000mYvlv2HvIg5",
+    "size_24aac": 589587,
+    "size_48aac": 1154727,
+    "size_96aac": 2315623,
+    "size_192ogg": 4171559,
+    "size_192aac": 4587583,
+    "size_128mp3": 3030428,
+    "size_320mp3": 7575716,
+    "size_ape": 18725016,
+    "size_flac": 18759247,
+    "size_dts": 0,
+    "size_try": 0,
+    "try_begin": 61030,
+    "try_end": 92357,
+    "url": "",
+    "size_hires": 0,
+    "hires_sample": 0,
+    "hires_bitdepth": 0,
+    "b_30s": 0,
+    "e_30s": 0
+    },
+    "pay": {
+    "pay_month": 1,
+    "price_track": 200,
+    "price_album": 0,
+    "pay_play": 0,
+    "pay_down": 1,
+    "pay_status": 0,
+    "time_free": 0
+    },
+    "action": {
+    "switches": 17413891,
+    "msgid": 14,
+    "alert": 2,
+    "icons": 147324,
+    "msgshare": 0,
+    "msgfav": 0,
+    "msgdown": 0,
+    "msgpay": 6,
+    "switch": 17413891
+    },
+    "ksong": {
+    "id": 4471710,
+    "mid": "000mMqEg1NkLYQ"
+    },
+    "volume": {
+    "gain": -8.584,
+    "peak": 0.948,
+    "lra": 11.361
+    },
+    "label": "0",
+    "url": "http://stream8.qqmusic.qq.com/227951234.wma",
+    "bpm": 65,
+    "version": 0,
+    "trace": "",
+    "data_type": 0,
+    "modify_stamp": 0
+    },
+    {
+    "id": 233478449,
+    "type": 0,
+    "mid": "0027CJIZ2ko9sk",
+    "name": "一个人记得",
+    "title": "一个人记得",
+    "subtitle": "",
+    "singer": [
+    {
+    "id": 2101458,
+    "mid": "003imGMJ0gPd00",
+    "name": "尤长靖",
+    "title": "尤长靖",
+    "type": 0,
+    "uin": 0
+    }
+    ],
+    "album": {
+    "id": 7025168,
+    "mid": "000YFOEc3weOYN",
+    "name": "一个人记得",
+    "title": "一个人记得",
+    "subtitle": "",
+    "time_public": "2019-06-19"
+    },
+    "mv": {
+    "id": 0,
+    "vid": "",
+    "name": "",
+    "title": ""
+    },
+    "interval": 277,
+    "isonly": 1,
+    "language": 0,
+    "genre": 1,
+    "index_cd": 0,
+    "index_album": 1,
+    "time_public": "2019-06-19",
+    "status": 0,
+    "fnote": 4009,
+    "file": {
+    "media_mid": "0027CJIZ2ko9sk",
+    "size_24aac": 863438,
+    "size_48aac": 1689489,
+    "size_96aac": 3409207,
+    "size_192ogg": 5881551,
+    "size_192aac": 6696233,
+    "size_128mp3": 4443526,
+    "size_320mp3": 11108232,
+    "size_ape": 0,
+    "size_flac": 54240190,
+    "size_dts": 0,
+    "size_try": 960887,
+    "try_begin": 0,
+    "try_end": 0,
+    "url": "",
+    "size_hires": 0,
+    "hires_sample": 0,
+    "hires_bitdepth": 0,
+    "b_30s": 0,
+    "e_30s": 60000
+    },
+    "pay": {
+    "pay_month": 1,
+    "price_track": 200,
+    "price_album": 0,
+    "pay_play": 0,
+    "pay_down": 1,
+    "pay_status": 0,
+    "time_free": 0
+    },
+    "action": {
+    "switches": 17413891,
+    "msgid": 14,
+    "alert": 2,
+    "icons": 139132,
+    "msgshare": 0,
+    "msgfav": 0,
+    "msgdown": 0,
+    "msgpay": 6,
+    "switch": 17413891
+    },
+    "ksong": {
+    "id": 6004714,
+    "mid": "003rA9JG1NmHWo"
+    },
+    "volume": {
+    "gain": -9.161,
+    "peak": 0.98,
+    "lra": 16.02
+    },
+    "label": "0",
+    "url": "http://stream0.qqmusic.qq.com/245478449.wma",
+    "bpm": 73,
+    "version": 0,
+    "trace": "",
+    "data_type": 0,
+    "modify_stamp": 0
+    },
+    {
+    "id": 233397563,
+    "type": 0,
+    "mid": "000vRpPj18JJhA",
+    "name": "只要平凡",
+    "title": "只要平凡 (Live)",
+    "subtitle": "",
+    "singer": [
+    {
+    "id": 15653,
+    "mid": "002eGarz3ty7Lm",
+    "name": "刺猬乐队",
+    "title": "刺猬乐队",
+    "type": 2,
+    "uin": 0
+    }
+    ],
+    "album": {
+    "id": 7016074,
+    "mid": "001wkgzE1tpA0B",
+    "name": "乐队的夏天 第4期",
+    "title": "乐队的夏天 第4期",
+    "subtitle": "",
+    "time_public": "2019-06-15"
+    },
+    "mv": {
+    "id": 1539706,
+    "vid": "w0031dnqc3w",
+    "name": "",
+    "title": ""
+    },
+    "interval": 298,
+    "isonly": 0,
+    "language": 0,
+    "genre": 36,
+    "index_cd": 0,
+    "index_album": 6,
+    "time_public": "2019-06-15",
+    "status": 0,
+    "fnote": 4009,
+    "file": {
+    "media_mid": "000vRpPj18JJhA",
+    "size_24aac": 924486,
+    "size_48aac": 1817925,
+    "size_96aac": 3633272,
+    "size_192ogg": 6537325,
+    "size_192aac": 7226638,
+    "size_128mp3": 4774139,
+    "size_320mp3": 11935034,
+    "size_ape": 0,
+    "size_flac": 63231926,
+    "size_dts": 0,
+    "size_try": 960887,
+    "try_begin": 0,
+    "try_end": 0,
+    "url": "",
+    "size_hires": 0,
+    "hires_sample": 0,
+    "hires_bitdepth": 0,
+    "b_30s": 0,
+    "e_30s": 60000
+    },
+    "pay": {
+    "pay_month": 1,
+    "price_track": 200,
+    "price_album": 0,
+    "pay_play": 0,
+    "pay_down": 1,
+    "pay_status": 0,
+    "time_free": 0
+    },
+    "action": {
+    "switches": 17409795,
+    "msgid": 14,
+    "alert": 43,
+    "icons": 147324,
+    "msgshare": 0,
+    "msgfav": 0,
+    "msgdown": 0,
+    "msgpay": 6,
+    "switch": 17409795
+    },
+    "ksong": {
+    "id": 0,
+    "mid": ""
+    },
+    "volume": {
+    "gain": -7.76,
+    "peak": 0.839,
+    "lra": 9.601
+    },
+    "label": "0",
+    "url": "http://stream0.qqmusic.qq.com/245397563.wma",
+    "bpm": 109,
+    "version": 3,
+    "trace": "",
+    "data_type": 0,
+    "modify_stamp": 0
+    },
+    {
+    "id": 218224537,
+    "type": 0,
+    "mid": "004DXFlC0nsTCZ",
+    "name": "年少有为",
+    "title": "年少有为",
+    "subtitle": "",
+    "singer": [
+    {
+    "id": 60505,
+    "mid": "000aHmbL2aPXWH",
+    "name": "李荣浩",
+    "title": "李荣浩",
+    "type": 0,
+    "uin": 0
+    }
+    ],
+    "album": {
+    "id": 4801194,
+    "mid": "004QnEHc3zjC7J",
+    "name": "耳朵",
+    "title": "耳朵",
+    "subtitle": "",
+    "time_public": "2018-10-17"
+    },
+    "mv": {
+    "id": 1481118,
+    "vid": "y0027sobcrh",
+    "name": "",
+    "title": ""
+    },
+    "interval": 279,
+    "isonly": 1,
+    "language": 0,
+    "genre": 1,
+    "index_cd": 0,
+    "index_album": 7,
+    "time_public": "2018-10-17",
+    "status": 0,
+    "fnote": 4009,
+    "file": {
+    "media_mid": "002TRY4a3zfxC8",
+    "size_24aac": 867106,
+    "size_48aac": 1701057,
+    "size_96aac": 3412727,
+    "size_192ogg": 6303035,
+    "size_192aac": 6742228,
+    "size_128mp3": 4470267,
+    "size_320mp3": 11174951,
+    "size_ape": 0,
+    "size_flac": 31202312,
+    "size_dts": 0,
+    "size_try": 0,
+    "try_begin": 86935,
+    "try_end": 119757,
+    "url": "",
+    "size_hires": 0,
+    "hires_sample": 0,
+    "hires_bitdepth": 0,
+    "b_30s": 0,
+    "e_30s": 0
+    },
+    "pay": {
+    "pay_month": 1,
+    "price_track": 200,
+    "price_album": 0,
+    "pay_play": 0,
+    "pay_down": 1,
+    "pay_status": 0,
+    "time_free": 0
+    },
+    "action": {
+    "switches": 17413891,
+    "msgid": 14,
+    "alert": 2,
+    "icons": 147324,
+    "msgshare": 0,
+    "msgfav": 0,
+    "msgdown": 0,
+    "msgpay": 6,
+    "switch": 17413891
+    },
+    "ksong": {
+    "id": 4142370,
+    "mid": "0029comh4Fxbvy"
+    },
+    "volume": {
+    "gain": -7.159,
+    "peak": 1,
+    "lra": 10.075
+    },
+    "label": "0",
+    "url": "http://stream0.qqmusic.qq.com/230224537.wma",
+    "bpm": 65,
+    "version": 0,
+    "trace": "",
+    "data_type": 0,
+    "modify_stamp": 0
+    },
+    {
+    "id": 233349712,
+    "type": 0,
+    "mid": "002rKpUN3FmQp5",
+    "name": "软糖沙滩",
+    "title": "软糖沙滩",
+    "subtitle": "《追球》电视剧云高洋角色曲",
+    "singer": [
+    {
+    "id": 1241893,
+    "mid": "000nuYSb1RP24t",
+    "name": "李汶翰",
+    "title": "李汶翰",
+    "type": 0,
+    "uin": 0
+    }
+    ],
+    "album": {
+    "id": 7009687,
+    "mid": "0042IGbt0U7Vbt",
+    "name": "追球 电视剧原声概念大碟",
+    "title": "追球 电视剧原声概念大碟",
+    "subtitle": "《追球》电视剧云高洋角色曲",
+    "time_public": "2019-06-17"
+    },
+    "mv": {
+    "id": 0,
+    "vid": "",
+    "name": "",
+    "title": ""
+    },
+    "interval": 156,
+    "isonly": 1,
+    "language": 0,
+    "genre": 0,
+    "index_cd": 0,
+    "index_album": 6,
+    "time_public": "2019-06-17",
+    "status": 0,
+    "fnote": 4009,
+    "file": {
+    "media_mid": "002rKpUN3FmQp5",
+    "size_24aac": 488720,
+    "size_48aac": 954971,
+    "size_96aac": 1914730,
+    "size_192ogg": 3561432,
+    "size_192aac": 3807704,
+    "size_128mp3": 2512984,
+    "size_320mp3": 6282140,
+    "size_ape": 0,
+    "size_flac": 18610872,
+    "size_dts": 0,
+    "size_try": 960887,
+    "try_begin": 0,
+    "try_end": 0,
+    "url": "",
+    "size_hires": 0,
+    "hires_sample": 0,
+    "hires_bitdepth": 0,
+    "b_30s": 0,
+    "e_30s": 60000
+    },
+    "pay": {
+    "pay_month": 1,
+    "price_track": 200,
+    "price_album": 0,
+    "pay_play": 0,
+    "pay_down": 1,
+    "pay_status": 0,
+    "time_free": 0
+    },
+    "action": {
+    "switches": 17413891,
+    "msgid": 14,
+    "alert": 2,
+    "icons": 139132,
+    "msgshare": 0,
+    "msgfav": 0,
+    "msgdown": 0,
+    "msgpay": 6,
+    "switch": 17413891
+    },
+    "ksong": {
+    "id": 5993977,
+    "mid": "003xPIIR0zk8zG"
+    },
+    "volume": {
+    "gain": -8.506,
+    "peak": 1,
+    "lra": 7.923
+    },
+    "label": "0",
+    "url": "http://stream0.qqmusic.qq.com/245349712.wma",
+    "bpm": 120,
+    "version": 0,
+    "trace": "",
+    "data_type": 0,
+    "modify_stamp": 0
+    },
+    {
+    "id": 233086480,
+    "type": 0,
+    "mid": "0005lLc501ZqsM",
+    "name": "我们很好",
+    "title": "我们很好",
+    "subtitle": "《少年的你》电影主题曲",
+    "singer": [
+    {
+    "id": 4286,
+    "mid": "001BLpXF2DyJe2",
+    "name": "林俊杰",
+    "title": "林俊杰",
+    "type": 0,
+    "uin": 0
+    }
+    ],
+    "album": {
+    "id": 6968757,
+    "mid": "0010AYuF3nqxhw",
+    "name": "我们很好",
+    "title": "我们很好",
+    "subtitle": "《少年的你》电影主题曲",
+    "time_public": "2019-06-13"
+    },
+    "mv": {
+    "id": 1539259,
+    "vid": "l0031ejo935",
+    "name": "",
+    "title": ""
+    },
+    "interval": 269,
+    "isonly": 1,
+    "language": 0,
+    "genre": 1,
+    "index_cd": 0,
+    "index_album": 1,
+    "time_public": "2019-06-13",
+    "status": 0,
+    "fnote": 4009,
+    "file": {
+    "media_mid": "000VaHy03fSV7G",
+    "size_24aac": 836052,
+    "size_48aac": 1638888,
+    "size_96aac": 3283525,
+    "size_192ogg": 5509253,
+    "size_192aac": 6501174,
+    "size_128mp3": 4307685,
+    "size_320mp3": 10768916,
+    "size_ape": 0,
+    "size_flac": 53902409,
+    "size_dts": 0,
+    "size_try": 0,
+    "try_begin": 0,
+    "try_end": 0,
+    "url": "",
+    "size_hires": 0,
+    "hires_sample": 0,
+    "hires_bitdepth": 0,
+    "b_30s": 0,
+    "e_30s": 0
+    },
+    "pay": {
+    "pay_month": 0,
+    "price_track": 0,
+    "price_album": 300,
+    "pay_play": 1,
+    "pay_down": 1,
+    "pay_status": 0,
+    "time_free": 0
+    },
+    "action": {
+    "switches": 594177,
+    "msgid": 13,
+    "alert": 7,
+    "icons": 0,
+    "msgshare": 0,
+    "msgfav": 0,
+    "msgdown": 0,
+    "msgpay": 3,
+    "switch": 594177
+    },
+    "ksong": {
+    "id": 5816701,
+    "mid": "0025DiiG2s2Xdh"
+    },
+    "volume": {
+    "gain": -9,
+    "peak": 1,
+    "lra": 10.082
+    },
+    "label": "0",
+    "url": "http://stream0.qqmusic.qq.com/245086480.wma",
+    "bpm": 100,
+    "version": 0,
+    "trace": "",
+    "data_type": 0,
+    "modify_stamp": 0
+    },
+    {
+    "id": 101805142,
+    "type": 0,
+    "mid": "002hnkIx2JVV8O",
+    "name": "预谋邂逅",
+    "title": "预谋邂逅",
+    "subtitle": "",
+    "singer": [
+    {
+    "id": 158556,
+    "mid": "003VJ4nP0Q19xJ",
+    "name": "阿肆",
+    "title": "阿肆",
+    "type": 1,
+    "uin": 286660209
+    }
+    ],
+    "album": {
+    "id": 435770,
+    "mid": "002ef2VB0Qfb30",
+    "name": "预谋邂逅",
+    "title": "预谋邂逅",
+    "subtitle": "",
+    "time_public": "2013-07-25"
+    },
+    "mv": {
+    "id": 268287,
+    "vid": "n00134mvpm0",
+    "name": "",
+    "title": ""
+    },
+    "interval": 256,
+    "isonly": 1,
+    "language": 0,
+    "genre": 23,
+    "index_cd": 0,
+    "index_album": 3,
+    "time_public": "2013-07-25",
+    "status": 0,
+    "fnote": 4009,
+    "file": {
+    "media_mid": "002hnkIx2JVV8O",
+    "size_24aac": 807283,
+    "size_48aac": 1610423,
+    "size_96aac": 3295134,
+    "size_192ogg": 6524116,
+    "size_192aac": 6073087,
+    "size_128mp3": 4100793,
+    "size_320mp3": 10251146,
+    "size_ape": 29496172,
+    "size_flac": 29621753,
+    "size_dts": 0,
+    "size_try": 960887,
+    "try_begin": 59970,
+    "try_end": 85555,
+    "url": "",
+    "size_hires": 0,
+    "hires_sample": 0,
+    "hires_bitdepth": 0,
+    "b_30s": 0,
+    "e_30s": 60000
+    },
+    "pay": {
+    "pay_month": 1,
+    "price_track": 200,
+    "price_album": 0,
+    "pay_play": 0,
+    "pay_down": 1,
+    "pay_status": 0,
+    "time_free": 0
+    },
+    "action": {
+    "switches": 17413891,
+    "msgid": 14,
+    "alert": 2,
+    "icons": 139132,
+    "msgshare": 0,
+    "msgfav": 0,
+    "msgdown": 0,
+    "msgpay": 6,
+    "switch": 17413891
+    },
+    "ksong": {
+    "id": 110808,
+    "mid": "000lT07m4HdCJ0"
+    },
+    "volume": {
+    "gain": -10.276,
+    "peak": 1,
+    "lra": 5.965
+    },
+    "label": "4611686018435776769",
+    "url": "http://stream10.qqmusic.qq.com/113805142.wma",
+    "bpm": 80,
+    "version": 0,
+    "trace": "",
+    "data_type": 0,
+    "modify_stamp": 0
+    }
+    ]
+    },
+    "code": 0
+    },
+    "code": 0,
+    "ts": 1561013384220
+    }
